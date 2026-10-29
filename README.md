@@ -14,7 +14,7 @@ Our main differentiator is evidence-backed verification: submitted details, docu
 
 ## Project status
 
-Discovery and initial design complete. No application has been implemented or deployed. The workspace contains the requirements, architecture, delivery backlog, and demo/evaluation plan. All technology choices below are proposals.
+The working prototype is in [prototype](prototype/README.md), with a [demo walkthrough](prototype/DEMO.md). It implements saved deposits, scoped demo personas, simulated bank evidence, corrections, documents, maturity tracking, renewal links, release controls and audit history. Domain tests and the local API smoke test pass. Research documents retain the original proposed architecture; the prototype uses React/TypeScript, Vinext, D1 and R2. AI/OCR and real bank integrations remain future work.
 
 | Document | Purpose |
 | --- | --- |
@@ -26,6 +26,15 @@ Discovery and initial design complete. No application has been implemented or de
 | [Two-day submission pack](docs/06-two-day-submission-pack.md) | Ready-to-adapt abstract, slide content, reduced prototype scope and 48-hour schedule |
 | [USP challenge review and AI decisions](docs/07-usp-challenge-and-ai-decisions.md) | Ten challenged features, corrected behavior, acceptance tests and model candidates |
 | [Source statement](docs/source/problem-statement.txt) | Unmodified description supplied by the user |
+
+## Vercel frontend
+
+A standalone Next.js frontend is available in [frontend](frontend/README.md).
+Set Vercel's Root Directory to `frontend`, select Next.js, and use `npm run build`
+with the default output settings. This version is an explicitly labelled browser
+demo: synthetic records and uploads persist locally in IndexedDB. No sign-in,
+backend services, or environment variables are required. The original Cloudflare
+prototype remains separate.
 
 ## First implementation milestone
 

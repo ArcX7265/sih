@@ -1,0 +1,18 @@
+Generated using the built-in image generation tool.
+
+Precisely restyle the attached slide, retaining its exact 16:9 composition, content, six-step SINGLE-ROW flowchart, full-height four-item USP column, SIH logo, header and original official blue footer. User likes the layout but wants a RAW BLACK TEXT aesthetic. Required changes:
+1. All main slide headings, bullet text, descriptions, workflow labels, numerals, and USP text must be TRUE BLACK (#000000), not navy or blue. White background everywhere. Plain academic serif Times New Roman-style typography. Keep bold lead phrases. NidhiSetu wordmarks/subtitle black too. Retain original SIH logo colors and original blue footer with white footer text; underlined link labels may remain standard blue.
+2. Surround the ENTIRE 'The Solution' section, including its heading and five bullet explanations, with ONE thin crisp BLACK RECTANGULAR OUTLINE, white interior. This means an outlined black box, NOT a black-filled background. Adequate internal padding and no text touching border. No rounding for this large solution box. It occupies upper-left area.
+3. Flowchart blocks must have PURE WHITE interiors, no blue background, no pale tint, no gradients. Use thin BLACK outlines and BLACK arrows/connectors. Six small stage number circles also white with black outlines and black digits, flat no shadow. Keep readable single horizontal row below 'How NidhiSetu Works', itself BLACK. Preserve the six stage labels and subtitles: 01 Register deposit / FDR details + documents; 02 Review evidence / Compare submitted facts; 03 Resolve discrepancies / Correct and resubmit if needed; 04 Monitor and renew / Dates + linked renewals; 05 Review release request / Check prerequisites; 06 Approve and complete / Approval, then completion. Place small 'If needed' directly above stage03 and 'On request' on connector stage04 to05, NOT on stage03 to04. No decorative pictograms.
+4. Right section heading change to EXACTLY 'The USPs' and CENTER it horizontally above the entire USP column. Keep four long rounded USP outlines and vertical numbered structure, as in source. Change these outlines/spine to black or dark gray and fills to white. All number disks white interiors, thin black outline, black number 01 02 03 04, NO pale blue fills, no colored tint, no shadow. Main titles and descriptions true black. Keep content unchanged:
+01 Confirmation that tracks edits: Changed financial facts require fresh evidence. Unchanged facts retain applicable confirmation.
+02 Controlled release readiness: Missing or withdrawn prerequisites block approval. Completion follows a separate recorded step.
+03 Traceable renewal history: Linked renewals preserve original deposits, documents and review history.
+04 Clear next actions: Pending cases identify the discrepancy, deadline or clearance that needs attention.
+5. Keep existing solution content exactly, five points with BLACK bullet dots:
+Centralized deposit records: Maintain institution-wise FDR details, documents and submission history.
+Evidence-based review: Compare submitted details with confirmation evidence and return discrepancies for correction.
+Confirmation after changes: Preserve earlier versions and require fresh evidence for changed financial facts.
+Maturity and renewal tracking: Show upcoming dates and link renewals to the original deposit.
+Controlled release processing: Check prerequisites, obtain authority approval and record completion separately.
+Keep screenshot removed. No problem section. No icons. Keep official blue footer and full landscape image, links bottom and page2. Aim for intentionally human-made clean raw black-on-white academic slide, no blue cast in the text or shapes.

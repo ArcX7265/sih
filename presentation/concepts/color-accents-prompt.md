@@ -1,0 +1,11 @@
+Generated using the built-in image generation tool.
+
+Edit the attached NidhiSetu slide. Restore its tasteful COLOR ACCENTS without introducing colored block backgrounds or blue body text. Preserve the EXACT content, positions, text sizes, line wrapping, full-height USP column, thin BLACK rectangular border around The Solution, centered The USPs heading, six-stage workflow, logo, white background and blue footer.
+Specific color treatment:
+- Keep ALL descriptive text, bullet prose, section headings, workflow titles and USP titles BLACK (#000000), not navy/blue.
+- Restore top-left NidhiSetu wordmark to original two-tone dark navy 'Nidhi' and blue 'Setu', with blue short underline. The centered NidhiSetu subtitle can be blue, while IDEA TITLE and descriptor stay black.
+- Workflow rectangles must have PURE WHITE interiors, absolutely no blue tint or other colored background. Give their thin borders tasteful blue/teal/orange/indigo accents. Number disks above workflow stages should be solid blue, cyan, orange, blue, teal and indigo respectively, with legible white numbers. Flat solid fills, no gloss or gradients. Connecting arrows blue. Tiny conditional label text black. Fix placement: 'If needed' is above step03; 'On request' above the connector between step04 Monitor and renew and step05 Review release request.
+- The USP long rounded rectangle outlines are colored, interiors PURE WHITE. Entry01 blue, entry02 teal, entry03 muted orange, entry04 indigo. Their left circular number badges should have white interior with colored outline and colored number matching each entry, NO tinted fill. The slim vertical connecting spine should use corresponding colored segments and small colored node dots, recalling original user's reference. Keep title and descriptions BLACK. No illustrative icons.
+- Solution bullet dots may be blue. Keep solution content black and its overall outer border BLACK. No color fill inside the solution area.
+- Footer stays original strong blue with white centered NidhiSetu and page2. Link labels stay blue underlined.
+DO NOT turn entire slide monochrome, but DO NOT fill any workflow rectangle or USP text block with colored backgrounds. Color belongs in borders, badges, connectors and wordmark only. This is a clean raw academic slide with restrained accents. Return full landscape slide image.
